@@ -1,7 +1,7 @@
 Question
 --------
 
-You've been told to implement some functionality while preserving encapsulation.
+You've been told to implement some functionality while preserving encapsulation.  
 What are your options? What's your approach?
 > ?
 > Bonus points:

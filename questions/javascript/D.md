@@ -1,7 +1,7 @@
 Question
 --------
 
-You've been told to implement some functionality by inheritance.
+You've been told to implement some functionality by inheritance.  
 What are your options? What's your approach?
 > ?  
 > Bonus points:
