@@ -1,0 +1,20 @@
+{
+  "OPEN_ASSET_PANE": {
+    "id": 1001
+  },
+  "CLOSE_ASSET_PANE": {
+    "id": 21
+  },
+  "OPEN_SETTINGS_PANE": {
+    "id": 3
+  },
+  "CLOSE_SETTINGS_PANE": {
+    "id": 997
+  },
+  "OPEN_PUBLISH_PANE": {
+    "id": 1058
+  },
+  "CLOSE_PUBLISH_PANE": {
+    "id": 81
+  }
+}
